@@ -1,3 +1,4 @@
+
 # Image-Handling-and-Pixel-Transformations-Using-OpenCV 
 
 ## AIM:
@@ -170,4 +171,3 @@ matrix2 =
 
 ## Result:
 Thus, the images were read, displayed, brightness and contrast adjustments were made, and bitwise operations were performed successfully using the Python program.
-
